@@ -4,3 +4,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 
 ### Day 01: Second Largest ✅
 ### Day 02: Move All Zero's ✅
+### Day 03: Reverse an Array ✅
