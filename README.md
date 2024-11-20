@@ -7,4 +7,5 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 03: Reverse an Array ✅
 ### Day 04: Rotate an Array ✅
 ### Day 05: Next Permutation ✅
+### Day 06: Majority Element II ✅
 
