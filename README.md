@@ -8,4 +8,5 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 04: Rotate an Array ✅
 ### Day 05: Next Permutation ✅
 ### Day 06: Majority Element II ✅
+### Day 07: Stock Buy and Sell – Multiple Transaction Allowed ✅
 
