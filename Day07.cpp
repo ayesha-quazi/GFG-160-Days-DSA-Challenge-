@@ -1,10 +1,5 @@
 // Stock Buy and Sell – Multiple Transaction Allowed
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 5f01584884e1d084fa6afcc68c917ab65a3a098e
 #include <vector>
 using namespace std;
 
