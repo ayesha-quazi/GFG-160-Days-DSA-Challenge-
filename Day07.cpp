@@ -1,6 +1,5 @@
 // Stock Buy and Sell – Multiple Transaction Allowed
 
-
 #include <vector>
 using namespace std;
 
