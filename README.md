@@ -10,4 +10,6 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 06: Majority Element II ✅
 ### Day 07: Stock Buy and Sell – Multiple Transaction Allowed ✅
 ### Day 08: Stock Buy and Sell – Max one Transaction Allowed ✅
+### Day 09: Minimize the Heights II ✅
+### Day 10: Kadane's Algorithm ✅
 
