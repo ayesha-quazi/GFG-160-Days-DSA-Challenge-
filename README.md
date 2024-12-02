@@ -19,3 +19,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 15: Add Binary Strings ✅
 ### Day 16: Anagram ✅
 ### Day 17: Non Repeating Character ✅
+### Day 18: Search Pattern (KMP-Algorithm) ✅
