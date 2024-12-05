@@ -22,3 +22,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 18: Search Pattern (KMP-Algorithm) ✅
 ### Day 19: Min Chars to Add for Palindrome ✅
 ### Day 20: Strings Rotations of Each Other ✅
+### Day 21: Sort 0s, 1s and 2s ✅
