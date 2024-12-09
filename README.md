@@ -25,3 +25,5 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 21: Sort 0s, 1s and 2s ✅
 ### Day 22: Find H-Index ✅ 
 ### Day 23: Count Inversions ✅
+### Day 24: Overlapping Intervals ✅
+### Day 25: Insert Interval ✅
