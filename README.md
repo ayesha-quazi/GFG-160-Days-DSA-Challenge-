@@ -32,3 +32,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 28: Number of occurrence ✅
 ### Day 29: Sorted and Rotated Minimum ✅
 ### Day 30: Search in Rotated Sorted Array ✅
+### Day 31: Peak Element ✅
