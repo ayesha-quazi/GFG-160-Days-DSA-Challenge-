@@ -1,6 +1,6 @@
 // Allocate Minimum Pages
 
-//class Solution {
+class Solution {
   public:
     bool check(vector<int>&arr, int k, int mid){
         int number=1, pages=0;
