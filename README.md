@@ -35,3 +35,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 31: Peak Element ✅
 ### Day 32: K-th element of two Arrays ✅ 
 ### Day 33: Aggressive Cows ✅
+### Day 34: Allocate Minimum Pages ✅
