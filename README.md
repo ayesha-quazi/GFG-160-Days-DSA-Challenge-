@@ -38,3 +38,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 34: Allocate Minimum Pages ✅
 ### Day 35: Kth Missing Positive Number in a Sorted Array ✅
 ### Day 36: Spirally traversing a matrix ✅
+### Day 37: Rotate by 90 degree ✅
