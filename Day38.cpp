@@ -1,6 +1,5 @@
 // Search in a Row-Column sorted matrix
 
-
 class Solution {
   public:
     bool matSearch(vector<vector<int>> &mat, int x) {
