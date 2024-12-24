@@ -40,4 +40,5 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 36: Spirally traversing a matrix ✅
 ### Day 37: Rotate by 90 degree ✅
 ### Day 38: Search in a Row-Column sorted matrix ✅
-### Day 39: 
+### Day 39: Search in a row-wise sorted matrix ✅
+### Day 40: Search in a sorted Matrix ✅
