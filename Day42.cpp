@@ -1,6 +1,5 @@
 // Two Sum - Pair with Given Sum
 
-
 class Solution {
   public:
     bool twoSum(vector<int>& arr, int target) {
