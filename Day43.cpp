@@ -1,6 +1,5 @@
 // Count pairs with given sum
 
-
 class Solution {
   public:
     int countPairs(vector<int> &arr, int target) {
