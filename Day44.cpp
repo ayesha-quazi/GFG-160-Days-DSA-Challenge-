@@ -1,6 +1,5 @@
 // Find All Triplets with Zero Sum
 
-
 class Solution {
   public:
     vector<vector<int>> findTriplets(vector<int> &arr) {
