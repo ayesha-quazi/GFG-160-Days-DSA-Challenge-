@@ -45,3 +45,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 41: Set Matrix Zeroes ✅
 ### Day 42: Two Sum - Pair with Given Sum ✅
 ### Day 43: Count pairs with given sum ✅
+### Day 44: Find All Triplets with Zero Sum ✅
