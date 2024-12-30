@@ -47,3 +47,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 43: Count pairs with given sum ✅
 ### Day 44: Find All Triplets with Zero Sum ✅
 ### Day 45: Intersection of Two arrays with Duplicate Elements ✅
+### Day 46: Union of Arrays with Duplicates ✅
