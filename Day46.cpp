@@ -1,6 +1,5 @@
 // Union of Arrays with Duplicates
 
-
 class Solution {
   public:
     // Function to return the count of number of elements in union of two arrays.
