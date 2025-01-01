@@ -1,6 +1,5 @@
 // Print Anagrams Together
 
-
 class Solution {
   public:
     vector<vector<string>> anagrams(vector<string>& arr) {
