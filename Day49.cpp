@@ -1,4 +1,5 @@
-// 
+// Subarrays with sum K
+
 
 // User function Template for C++
 
