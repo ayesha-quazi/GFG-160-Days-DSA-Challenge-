@@ -1,6 +1,5 @@
 // Count Subarrays with given XOR
 
-
 class Solution {
   public:
     long subarrayXor(vector<int> &arr, int k) {
