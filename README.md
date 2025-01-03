@@ -51,3 +51,4 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 47: Longest Consecutive Subsequence ✅
 ### Day 48: Print Anagrams Together ✅
 ### Day 49: Subarrays with sum K ✅
+### Day 50: Count Subarrays with given XOR ✅
