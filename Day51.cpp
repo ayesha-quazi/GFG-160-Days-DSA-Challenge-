@@ -1,6 +1,5 @@
 // Count all triplets with given sum in sorted array
 
-
 class Solution {
   public:
     int countTriplets(vector<int> &arr, int target) {
