@@ -1,6 +1,5 @@
 // Count Pairs whose sum is less than target
 
-
 class Solution {
   public:
     int countPairs(vector<int> &arr, int target) {
