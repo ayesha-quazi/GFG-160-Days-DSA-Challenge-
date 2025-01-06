@@ -1,7 +1,5 @@
 // Sum Pair closest to target
 
-
-
 class Solution {
   public:
     vector<int> sumClosest(vector<int>& arr, int target) {
