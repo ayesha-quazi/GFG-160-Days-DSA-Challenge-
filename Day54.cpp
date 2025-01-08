@@ -26,8 +26,7 @@ class Solution {
                 if(ele1 == ele2) count+=c1*(c1-1)/2;
                 else count+=c1*c2;
             }
-        }
-        
+        }        
         return count;
     }
 };
