@@ -1,6 +1,5 @@
 // Count the number of possible triangles
 
-
 class Solution {
   public:
     // Function to count the number of possible triangles.
