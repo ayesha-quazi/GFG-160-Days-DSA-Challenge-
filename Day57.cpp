@@ -1,6 +1,5 @@
 // Count distinct elements in every window
 
-
 class Solution {
   public:
     vector<int> countDistinct(vector<int> &arr, int k) {
