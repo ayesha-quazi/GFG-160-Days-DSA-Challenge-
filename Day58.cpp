@@ -1,6 +1,5 @@
 // Longest substring with distinct characters
 
-
 class Solution {
   public:
     int longestUniqueSubstr(string &s) {
