@@ -1,6 +1,5 @@
 // Trapping Rain Water
 
-
 class Solution {
   public:
     int maxWater(vector<int> &arr) {
