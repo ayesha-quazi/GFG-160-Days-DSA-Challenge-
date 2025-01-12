@@ -60,4 +60,5 @@ I've embarked on a 160-day challenge to tackle the GFG DSA sheet starting from 1
 ### Day 56: Indexes of Subarray Sum ✅
 ### Day 57: Count distinct elements in every window ✅
 ### Day 58: Longest substring with distinct characters ✅
+### Day 59: Trapping Rain Water ✅
 
